@@ -16,11 +16,11 @@ Obstacle Avoidance is the ability of any programmed device in motion to detect a
 10. Breadboard
 11. Jumper Wires
 
-##Circuit Diagram
+## Circuit Diagram
 
 ![alt text](https://github.com/DheerajNair/Obstacle-avoiding-robot-car-using-TM4C123GH6PM/blob/main/circuit_diagram.png?raw=true)
 
-##Assembly : 
+## Assembly : 
 
 Step 1: Connect the wheels to the DC motors.<br />
 Step 2: Connect the wire from DC motor to L298N driver board<br />
