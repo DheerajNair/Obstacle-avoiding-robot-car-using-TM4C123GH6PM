@@ -16,5 +16,21 @@ List of Components:
 10. Breadboard
 11. Jumper Wires
 
+Assembly : 
 
+Step 1: Connect the wheels to the DC motors.
+Step 2: Connect the wire from DC motor to L298N driver board
+Step 3: From the L298N driver board connect IN1, IN2 to PA2,PA3 of the TM4C microcontroller.
+Step 4: Connect IN3,IN4 from the driver board to PA5,PA6 of the TM4C microcontroller.
+Step 5: Connect the ground from L298N board to the breadboard( short all the grounds from the components to a single location)
+Step 6: Connect the ground and VCC of the servo motor to the breadboard.( have a common point for  ground and VCC respectively)
+Step 7: Connect the data pin of the servo motor to PA4 of the TM4C microcontroller.
+Step 8: Mount the ultrasonic on top of the servo motor.
+Step 9: Connect the ground and VCC of the servo motor to the breadboard.
+Step 10: Connect the TRIG and ECHO to PB4,PB6 of the TM4C microcontroller.
+Step 11: Connect the power source to the driver board(12V pin) ( in case of batteries, connect them serially)
+Step 12: Connect the 5V output from the driver board to the breadboard point where all the VCC wires are shorted.
+Step 13: Connect a switch to control the power (OPTIONAL)
+
+Flash the code to the TM4C microcontroller and done!
 
