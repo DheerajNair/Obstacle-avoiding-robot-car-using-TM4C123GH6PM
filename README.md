@@ -2,7 +2,7 @@
 
 Obstacle Avoidance is the ability of any programmed device in motion to detect and avoid obstacles in its path. Obstacle can be detected by a robot using sensors such as IR sensor, Ultrasonic or Lidar sensors. In this project we are using a Tiva C Series microcontroller - TM4C123GH6PM as the processing unit of the car. The ultrasonic sensor reads the distance between the car and the obstacle in front of it and the microcontroller makes the car change its direction of motion so that it can avoid the obstacle detected in front of it. The ultrasonic sensor can detect obstacle upto 4 metres ahead. This helps to decide the path of motion of the car with minimum overheads
 
-##List of Components:
+##List of Components: ##
 
 1. TM4C123GH6PM Microcontroller
 2. HC-SR04 ultrasonic distance sensor
