@@ -34,3 +34,4 @@ Step 13: Connect a switch to control the power (OPTIONAL)<br />
 
 Flash the code to the TM4C microcontroller and done!
 
+![alt text](https://github.com/DheerajNair/Obstacle-avoiding-robot-car-using-TM4C123GH6PM/blob/main/obstacle%20avoiding%20robot%20car.jpeg?raw=true)
